@@ -34,7 +34,7 @@ dev: alone
 
 Install dependencies/clone:
 ```bash
-git clone git clone https://github.com/nxgq/Discord-Token-Retriever-for-Termux.git
+git clone https://github.com/nxgq/Discord-Token-Retriever-for-Termux.git
 cd Discord-Token-Retriever-for-Termux
 pip install requests
 
